@@ -1,0 +1,60 @@
+body {
+  font-family: "Avenir";
+  background-image: url("../img/space_travel.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+}
+
+img {
+  width: 120px;
+  float: left;
+  border-radius: 100%;
+  margin-right: 20px;
+}
+
+header {
+  height: 150px;
+  border-bottom: 1px solid white;
+  margin-bottom: 10px;
+}
+
+h1 {
+  padding-top: 15px;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+ul {
+  margin-top: 0px;
+}
+
+section {
+  margin-bottom: 15px;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 6%;
+  background-color: rgba(17, 21, 50, 0.95);
+}
+
+span {
+  color: red;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid white;
+  padding-top: 20px;
+}
